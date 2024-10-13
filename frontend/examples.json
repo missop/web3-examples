@@ -1,8 +1,8 @@
 [
   {
     "name": "简单钱包",
-    "description": "使用 ethers.js 连接 Metamask，实现了连接、断开、查询余额、刷新余额、转账等加密钱包的极简功能。麻雀虽小，五脏俱全。适合初学者学习。",
-    "url": "/sample-wallet",
+    "description": "使用 ethers.js 连接 Metamask，实现了连接、断开、查询余额、刷新余额、转账等加密钱包的极简功能。麻雀虽小，五脏俱全。",
+    "url": "/simple-wallet",
     "icon": "TbWallet",
     "technologyStack": [
       "next.js",
@@ -14,8 +14,8 @@
   },
   {
     "name": "钱包地址生成器",
-    "description": "使用 ethers.js 批量生成随机的钱包地址，支持 Excel 导出。适合初学者学习。",
-    "url": "/wallet-generator",
+    "description": "使用 ethers.js 批量生成随机的钱包地址，支持 Excel 导出。",
+    "url": "/wallet-generator1",
     "icon": "GiPerspectiveDiceSixFacesRandom",
     "technologyStack": [
       "next.js",
@@ -24,19 +24,6 @@
       "chakra-ui",
       "ethers.js",
       "xlsx"
-    ]
-  },
-  {
-    "name": "钱包靓号生成器",
-    "description": "使用 ethers.js 实现的钱包靓号生成器。适合初学者学习。",
-    "url": "/wallet-genuine-number-generator",
-    "icon": "BiCool",
-    "technologyStack": [
-      "next.js",
-      "react",
-      "tailwindcss",
-      "chakra-ui",
-      "ethers.js"
     ]
   },
   {

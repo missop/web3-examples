@@ -81,7 +81,7 @@ function Layout({
           ))}
         </ul>
         <Link
-          href="https://github.com/luzhenqian/web3-examples"
+          href="https://github.com/missop/web3-examples"
           target={"_blank"}
         >
           <div className="relative hidden p-4 text-white transition duration-500 ease-in-out rounded-md cursor-pointer md:block">

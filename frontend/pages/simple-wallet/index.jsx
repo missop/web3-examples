@@ -23,6 +23,16 @@ function SimpleWallet() {
 
   return (
     <div className="flex flex-col gap-4">
+      <h2 className="text-3xl font-bold">简单钱包</h2>
+      <div>
+        <strong>支持的功能：</strong>
+        <ul>
+          <li>连接 MetaMask</li>
+          <li>查询账户余额</li>
+          <li>转账</li>
+        </ul>
+      </div>
+
       <Connect
         account={account}
         setAccount={setAccount}

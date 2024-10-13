@@ -29,7 +29,7 @@ function Home() {
       >
         <div className="hidden md:fixed top-8 right-8 md:block">
           <Link
-            href={"https://github.com/luzhenqian/web3-examples"}
+            href={"https://github.com/missop/web3-examples"}
             target="_blank"
           >
             <GitHubIcon />
@@ -59,7 +59,7 @@ function Home() {
                     </Link>
 
                     <Link
-                      href={"https://github.com/luzhenqian/web3-examples"}
+                      href={"https://github.com/missop/web3-examples"}
                       target="_blank"
                     >
                       <div className="flex items-center h-8 gap-2 px-2 border border-gray-300 rounded-md md:hidden">
